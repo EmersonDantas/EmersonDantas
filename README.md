@@ -4,4 +4,4 @@
 
 ### Olá! Bem-vindo(a) ao meu perfil!
 
-Meu nome é Emerson, sou desenvolvedor FullStack.
+Meu nome é Emerson, sou Engenheiro de Software.
